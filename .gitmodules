@@ -1,0 +1,15 @@
+[submodule "esp32-led-ota"]
+	path = esp32-led-ota
+	url = https://github.com/DystopicSoftware/esp32-led-ota
+[submodule "ESP32-WiFi-SoftAP-RGB"]
+	path = ESP32-WiFi-SoftAP-RGB
+	url = https://github.com/DystopicSoftware/ESP32-WiFi-SoftAP-RGB
+[submodule "esp32-termistor-potenciometro-proyecto"]
+	path = esp32-termistor-potenciometro-proyecto
+	url = https://github.com/DystopicSoftware/esp32-termistor-potenciometro-proyecto
+[submodule "ESP32-rgb-led-pwm"]
+	path = ESP32-rgb-led-pwm
+	url = https://github.com/DystopicSoftware/ESP32-rgb-led-pwm
+[submodule "esp32-boton-y-led"]
+	path = esp32-boton-y-led
+	url = https://github.com/DystopicSoftware/esp32-boton-y-led
